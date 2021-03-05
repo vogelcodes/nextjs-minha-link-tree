@@ -2,9 +2,9 @@ import Head from 'next/head'
 
 export default function Home() {
   return (
-    <div className="flex flex-col items-center justify-center min-h-screen py-2">
+    <div className="bg-gray-800 text-gray-200 flex flex-col items-center justify-center min-h-screen py-2">
       <Head>
-        <title>Meu Site</title>
+        <title>VogelCodes.com</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
